@@ -1,0 +1,14 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# macOS
+.DS_Store
+
+# Raw test footage: too large for GitHub (100 MB per-file limit)
+*.MP4
+*.mp4
+!DIC Algorithm/examples/synthetic_output/**/*.mp4
+!DIC Algorithm/DIC Videos (RAW)/*_dic/*.mp4
