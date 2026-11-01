@@ -57,7 +57,7 @@ DIC_Capture_Checklist.docx
 ## Status
 
 - **Algorithm:** complete, and validated on synthetic speckle footage with known strain.
-- **Pilot test:** footage of a speckled wooden stick under step loading, filmed at home. Tracking was excellent (ZNCC ≈ 0.998), and every loading step was picked up. The stick bent *away from* the camera, though, so the measured values are dominated by false strain from out-of-plane motion. This is a known limit of 2D DIC, and it is why camera placement matters (see the filming guidance in the practical guide).
+- **Pilot test:** footage of a speckled wooden stick under step loading, filmed primitively. Tracking was excellent (ZNCC ≈ 0.998), and every loading step was picked up. The stick bent *away from* the camera, though, so the measured values are dominated by false strain from out-of-plane motion. This is a known limit of 2D DIC, and it is why camera placement matters (see the filming guidance in the practical guide).
 - **Next:** analysis of field footage of painted mangroves, with comparison against reference measurements.
 
 ## Data
